@@ -1,0 +1,25 @@
+<!ELEMENT Store (Logo,Store_Name,Address,Web_Address,Songs+)>
+<!ELEMENT Logo (#PCDATA)>
+<!ELEMENT Store_Name (#PCDATA)>
+<!ELEMENT Address (Country?,City?,Phone_Number?)>
+<!ELEMENT Country (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT Phone_Number (#PCDATA)>
+<!ELEMENT Web_Address (#PCDATA)>
+<!ELEMENT Songs (Song+)>
+<!ELEMENT Song (Song_Title,Director,Producer+,Editor?,Writer?,Singer,Release_Date,Genre,Duration?,Description?)>
+<!ATTLIST Song Id ID #REQUIRED>
+<!ELEMENT Song_Title (#PCDATA)>
+<!ATTLIST Song_Title SongType (Official|Lyrical) #REQUIRED>
+<!ATTLIST Song_Title Language CDATA #REQUIRED>
+<!ELEMENT Director (#PCDATA)>
+<!ATTLIST Director title (Mr.|Miss.) #IMPLIED>
+<!ELEMENT Producer (#PCDATA)>
+<!ELEMENT Editor (#PCDATA)>
+<!ELEMENT Writer (#PCDATA)>
+<!ELEMENT Singer (#PCDATA)>
+<!ELEMENT Release_Date (#PCDATA)>
+<!ATTLIST Release_Date format (yyyy-mm-dd) #REQUIRED>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT Duration (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>

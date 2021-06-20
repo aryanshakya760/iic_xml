@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./catalog_19031603.css"?> 
+<!--<!DOCTYPE Store SYSTEM "catalog_19031603.dtd"> -->
+
+<Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="catalog_19031603.xsd"> 
+	<Logo/>
+	<Store_Name> Shakya Music Store </Store_Name>
+	<Address>
+		<Country> Nepal </Country>
+		<City> Dharan </City>
+		<Phone_Number> +977 9824356760 </Phone_Number>
+	</Address>
+	<Web_Address> www.shakya.music.com </Web_Address>
+	<Songs>
+		<Song Id ="aryan1">
+			<Song_Title SongType="Official" Language="English"> Perfect  </Song_Title> 
+		    <Director title="Mr."> dp Jason Koenig </Director>
+		    <Producer> Nina Soriano </Producer>
+		    <Editor> Jason Koenig </Editor>
+		    <Writer> Jason Koenig</Writer>
+		    <Singer> Ed Sheeran </Singer>
+		    <Release_Date format="yyyy-mm-dd"> 2017-11-9 </Release_Date>
+		    <Genre> Pop Music </Genre>
+		    <Duration> 4 minutes 39 seconds </Duration>
+		    <Description> The official music video for Ed Sheeran - Perfect Taken from the studio album ÷ (divide) released in 2017, which featured the hit singles 'Castle on the Hill', 'Shape of You', 'Galway Girl', ‘Perfect’ &amp; 'Happier'.</Description>
+		</Song>
+
+		<Song Id ="aryan2">
+			<Song_Title SongType="Official" Language="English"> SICKO MODE ft. Drake </Song_Title> 
+			<Director title="Mr."> Dave Meyers </Director>
+			<Producer> Nathan Scheerer</Producer>
+			<Producer> Sam Lecca </Producer>
+			<Singer> Travis Scott </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2018-10-19 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 5 minutes 22 seconds </Duration>
+			<Description> The official music video for Travis Scott - Sicko Mode</Description>
+		</Song>
+
+		<Song Id ="aryan3">
+			<Song_Title SongType="Official" Language="Nepali"> Lukaamaari </Song_Title> 
+			<Director title="Mr."> Sushil Sapakota </Director>
+			<Producer> Sharif Shrestha </Producer>
+			<Singer> Sajjan Raj Vaidya </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2021-02-26 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 6 minutes 18 seconds </Duration>
+			<Description>We identify love as a noun and we experience it as a verb. This song is one that speaks of love as an action rather than the decoration of an idea with words. When everything is a cliché and every metaphor is mundane, the only way to truly communicate love is through action. As words escape our sights and play hide and seek with us, we discover new ways to speak love. "Lukaamaari" is the story of such a discovery.</Description>
+		</Song>
+
+		<Song Id = "aryan4">
+			<Song_Title SongType="Official" Language="English"> Shape of You </Song_Title>
+			<Director title="Mr."> Jason Koenig </Director>
+			<Producer> Honna Kimmerer </Producer>
+			<Editor> Johhny Valencia, Jason Koenig </Editor>
+			<Writer> Ed Sheeran </Writer>
+			<Singer> Ed Sheeran </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2017-01-30 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 4 minutes 23 seconds </Duration>
+			<Description> The official music video for Ed Sheeran - Shape of You </Description>
+		</Song>
+
+		<Song Id ="aryan5">
+			<Song_Title SongType="Official" Language="English"> 7 Years </Song_Title> 
+			<Director title="Miss."> René Sascha Johannsen </Director>
+			<Producer> The Woerks &amp; Seven Pictures </Producer>
+			<Singer> Lukas Graham </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2015-12-15 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 59 seconds </Duration>
+			<Description>A mix of Christiania, Copenhagen and Los Angeles is combined to give you a beautiful imagery to help the song along. I really hope you like it." - Lukas Graham</Description>
+		</Song>
+
+		<Song Id = "aryan6">
+			<Song_Title SongType="Official" Language="English"> Ler Her Go </Song_Title>
+			<Director title="Mr."> Dave Jansen </Director>
+			<Producer> Dave Jansen </Producer>
+			<Writer> Passenger</Writer>
+			<Singer> Passenger </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2012-07-26 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 4 minutes 14 seconds </Duration>
+			<Description> The official music video for Passenger - Let Her Go. </Description>
+		</Song>
+
+		<Song Id = "aryan7">
+			<Song_Title SongType="Official" Language="Nepali"> Maya </Song_Title>
+			<Director title="Mr."> Mr. GM </Director>
+			<Producer> Snjv and Storenutter (Class X Presentation) </Producer>
+			<Editor> Mr. GM </Editor>
+			<Writer> Adhar Sherchan </Writer>
+			<Singer> Ayush Gauchan </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2021-01-20 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 02 seconds </Duration>
+			<Description> I am so thankful to the wonderful individuals that helped me make this possible. To you, My undying gratefulness and gratitude.</Description>
+		</Song>
+
+		<Song Id = "aryan8">
+			<Song_Title SongType="Official" Language="Nepali"> Sathi </Song_Title>
+			<Director title="Mr."> Abin Bho </Director>
+			<Producer> Rajat Khadka </Producer>
+			<Editor> Abin Bho, Nayan Rai </Editor>
+			<Writer> Sushant Kc </Writer>
+			<Singer> Sushant Kc </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2019-08-31 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 41 seconds </Duration>
+			<Description> Some feelings are embedded in our hearts, and we know they exist in our subconscious. Seldom do we realize the value of those feelings and react to prevent any sort of losses. This is an abstract of one of those feelings which may sound awkward blurting out loud, leaving it unexpressed and unsaid. To all my precious SATHIS who have stuck through thick and thin, expressing my love towards you with this song. You mean the world to me.</Description>
+		</Song>
+
+		<Song Id = "aryan9">
+			<Song_Title SongType="Official" Language="English"> Chlorine </Song_Title>
+			<Director title="Mr."> Reel Bear Media </Director>
+			<Producer> Macario De Souza Cam Pianta </Producer>
+			<Editor> Reel Bear Media </Editor>
+			<Writer> twenty one pilots  </Writer>
+			<Singer> twenty one pilots </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2019-01-23 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 5 minutes 23 seconds </Duration>
+			<Description> The official music video for twenty one pilots - Chlorine. </Description>
+		</Song>
+
+		<Song Id = "aryan10">
+			<Song_Title SongType="Official" Language="English"> Attention </Song_Title>
+			<Director title="Miss."> Emil Nava </Director>
+			<Producer> Charlie Puth </Producer>
+			<Writer> Charlie Puth, Jacob Kasher  </Writer>
+			<Singer> Charlie Puth </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2017-04-27 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 51 seconds </Duration>
+			<Description> The official music video for Charlie Puth - Attention </Description>
+		</Song>
+
+		<Song Id = "aryan11">
+			<Song_Title SongType="Official" Language="English"> Cheating on You </Song_Title>
+			<Director title="Mr."> Tyler Yee </Director>
+			<Producer> SixTwentySix Productions </Producer>
+			<Editor> Steven Salgado &amp; Tyler Yee </Editor>
+			<Writer> Charlie Puth, Jacob Kasher  </Writer>
+			<Singer> Charlie Puth </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2019-10-02 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 21 seconds </Duration>
+			<Description> The official music video for Charlie Puth - Cheating on You. </Description>
+		</Song>
+
+		<Song Id = "aryan12">
+			<Song_Title SongType="Official" Language="Hindi"> Ding Dang </Song_Title>
+			<Director title="Mr."> Sabbir Khan </Director>
+			<Producer> Eros International </Producer>
+			<Producer> Vikki Rajani </Producer>
+			<Writer> Danish Sabri &amp; Sabbir Khan  </Writer>
+			<Singer> Amit Mishra &amp; Antara Mitra </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2017-11-20 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 21 seconds </Duration>
+			<Description> Shake your legs to the most energetic song of the year "Ding Dang" from the movie "Munna Michael".</Description>
+		</Song>
+
+		<Song Id = "aryan13">
+			<Song_Title SongType="Official" Language="English"> Solway Firth </Song_Title>
+			<Director title="Mr."> M. Shawn Crahan </Director>
+			<Producer> Nic Neary </Producer>
+			<Editor> Mike Spagnoli </Editor>
+			<Writer> Slipknot  </Writer>
+			<Singer> Corey Taylor </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2019-07-22 </Release_Date>
+			<Genre> Rock Music </Genre>
+			<Duration> 6 minutes 05 seconds </Duration>
+			<Description> The official music video for Slipknot - Solway Firth </Description>
+		</Song>
+
+		<Song Id = "aryan14">
+			<Song_Title SongType="Official" Language="English"> Godzilla </Song_Title>
+			<Director title="Mr."> Cole Bennett </Director>
+			<Producer> Cole Bennett </Producer>
+			<Editor> Cole Bennett </Editor>
+			<Writer> Eminem  </Writer>
+			<Singer> Eminem </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2020-03-20 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 4 minutes 26 seconds </Duration>
+			<Description> In Loving Memory of Jarad "Juice WRLD" Higgins </Description>
+		</Song>
+
+		<Song Id = "aryan15">
+			<Song_Title SongType="Official" Language="English"> All Girls Are The Same </Song_Title>
+			<Director title="Mr."> Cole Bennett </Director>
+			<Producer> Nick Mira </Producer>
+			<Editor> Cole Bennett </Editor>
+			<Writer> Juice WRLD  </Writer>
+			<Singer> Juice WRLD </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2018-02-26 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 2 minutes 56 seconds </Duration>
+		</Song>
+	</Songs>
+</Store>

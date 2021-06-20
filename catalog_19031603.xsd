@@ -1,0 +1,60 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:complexType name="Store">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Logo"/>
+      <xs:element type="xs:string" name="Store_Name"/>
+      <xs:element type="AddressType" name="Address"/>
+      <xs:element type="xs:string" name="Web_Address"/>
+      <xs:element type="SongsType" name="Songs"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AddressType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Country"/>
+      <xs:element type="xs:string" name="City"/>
+      <xs:element type="xs:string" name="Phone_Number"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Song_TitleType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="SongType" use="optional"/>
+        <xs:attribute type="xs:string" name="Language" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="DirectorType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="title" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="Release_DateType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="SongType">
+    <xs:sequence>
+      <xs:element type="Song_TitleType" name="Song_Title"/>
+      <xs:element type="DirectorType" name="Director"/>
+      <xs:element type="xs:string" name="Producer"/>
+      <xs:element type="xs:string" name="Editor" minOccurs="0"/>
+      <xs:element type="xs:string" name="Writer" minOccurs="0"/>
+      <xs:element type="xs:string" name="Singer"/>
+      <xs:element type="Release_DateType" name="Release_Date"/>
+      <xs:element type="xs:string" name="Genre"/>
+      <xs:element type="xs:string" name="Duration"/>
+      <xs:element type="xs:string" name="Description" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="Id" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="SongsType">
+    <xs:sequence>
+      <xs:element type="SongType" name="Song" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
