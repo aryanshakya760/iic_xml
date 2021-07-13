@@ -199,5 +199,16 @@
 			<Genre> Pop Music </Genre>
 			<Duration> 2 minutes 56 seconds </Duration>
 		</Song>
+			<Song Id = "aryan16">
+			<Song_Title SongType="Official" Language="English"> hot girl bummer </Song_Title>
+			<Director title="Mr."> Blackbear FRND </Director>
+			<Producer> Blackbear FRND </Producer>
+			<Editor> Cole Bennett </Editor>
+			<Writer> Juice WRLD  </Writer>
+			<Singer> Matthew Musto </Singer>
+			<Release_Date format="yyyy-mm-dd"> 2019-08-23 </Release_Date>
+			<Genre> Pop Music </Genre>
+			<Duration> 3 minutes 05 seconds </Duration>
+		</Song>
 	</Songs>
 </Store>
